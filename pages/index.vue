@@ -132,7 +132,8 @@
     padding-left: 2rem;
     padding-right: 2rem;
     transform: skewY(2deg);
-    margin: 5rem auto;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
     width: 100%;
   }
 
