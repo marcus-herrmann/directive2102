@@ -9,7 +9,7 @@ module.exports = {
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
       {name: 'msapplication-TileColor', content: '#1e3a72'},
       {name: 'theme-color', content: '#ffffff'},
-      {hid: 'description', name: 'description', content: 'Nuxt.js project'}
+      {hid: 'description', name: 'description', content: 'Short summary site about standardization of web accessibility laws across the European Union'}
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
@@ -21,6 +21,7 @@ module.exports = {
     ]
   },
   plugins: ['~/plugins/vue-smooth-scroll'],
+  loading: false,
   build: {
     extend(config, {isDev, isClient}) {
       if (isDev && isClient) {
