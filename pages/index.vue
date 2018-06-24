@@ -124,7 +124,7 @@
     margin-bottom: 2rem;
     transform: skewY(-2deg);
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
   }
 
   .section__inner {
