@@ -9,6 +9,7 @@
       </ul>
       <p>Legal stuff: Inhaltlich Verantwortlicher gemäß § 10 Absatz 3 MDStV: Marcus Herrmann, c/o Office D118, Danziger Str. 118, 10405 Berlin, blog [at] marcus [dot] io.</p>
     </div>
+    <img src="https://stat.marcus-herrmann.com/piwik.php?idsite=6&amp;rec=1" style="border:0" alt="" />
   </footer>
 </template>
 
