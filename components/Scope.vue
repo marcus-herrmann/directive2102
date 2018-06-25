@@ -1,7 +1,7 @@
 <template>
   <section class="section section--highlighted" id="scope">
     <div class="section__inner">
-      <h2>What its scope?</h2>
+      <h2>Scope</h2>
       <ul class="text-list">
         <li>The directive includes websites, mobile apps, intranets and documents of public sector bodies.</li>
         <li>At the latest by <strong>23 December 2018</strong> a <strong>technical specification</strong> regarding

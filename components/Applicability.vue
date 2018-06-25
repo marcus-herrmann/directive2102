@@ -4,7 +4,7 @@
       <h2>Applicability</h2>
       <div class="applicability">
         <div class="applicability-item">
-          <h3>Who is affected by the law?</h3>
+          <h3>What is Covered?</h3>
           <p>The directive aims to laws relating to websites and mobile applications of public sector bodies. Quote
             <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.327.01.0001.01.ENG#d1e719-1-1">
               Article 3, 1</a>:</p>
@@ -23,7 +23,7 @@
           </ul>
         </div>
         <div class="applicability-item">
-          <h3>Who is NOT affected by the law?</h3>
+          <h3>What is NOT Covered?</h3>
           <p>However, the directive also formulates exceptions:</p>
           <ul class="text-list">
             <li>Websites and apps of public broadcasters or "other bodies or their subsidiaries fulfilling a public
@@ -56,6 +56,6 @@
     .applicability {
       grid-template-columns: 1fr;
     }
-    
+
   }
 </style>

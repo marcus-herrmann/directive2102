@@ -5,10 +5,10 @@
         <a href="#intro" v-smooth-scroll>Directive 2102?</a>
       </li>
       <li>
-        <a href="#scope" v-smooth-scroll>What its scope?</a>
+        <a href="#scope" v-smooth-scroll>Scope</a>
       </li>
       <li>
-        <a href="#applicability" v-smooth-scroll>Who is affected?</a>
+        <a href="#applicability" v-smooth-scroll>What is Covered?</a>
       </li>
       <li>
         <a href="#timeline" v-smooth-scroll>Timeline</a>
