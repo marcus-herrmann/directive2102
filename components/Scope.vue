@@ -25,10 +25,8 @@
           <strong>accessibility statement</strong> has to offer an explanation and an accessible alternative.
         </li>
         <li>The directive describes <strong>minimum</strong> accessibility requirements, but individual countries can
-          also make more
-          far-reaching regulations. Article 2 states: "Member States may maintain or introduce measures in conformity
-          with
-          Union law which go beyond the minimum requirements for accessibility of websites and mobile applications
+          also make more far-reaching regulations. Article 2 states: "Member States may maintain or introduce measures in conformity
+          with Union law which go beyond the minimum requirements for accessibility of websites and mobile applications
           established by this Directive."
         </li>
       </ul>

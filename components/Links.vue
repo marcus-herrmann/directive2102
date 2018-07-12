@@ -14,7 +14,7 @@
         <a href="https://ec.europa.eu/info/law/better-regulation/initiatives/ares-2018-2604213_en">
           You can find this draft here</a>.</p>
 
-      <p><a href="https://www.hellbusch.de/eu-richtlinie-2102/">A detailed summary of the directive in German language can be found in this series of articles by Jan Hellbusch.</a></p>
+      <p><a href="https://www.hellbusch.de/eu-richtlinie-2102/" hreflang="de">A detailed summary of the directive in German language can be found in this series of articles by Jan Hellbusch.</a></p>
     </div>
   </section>
 </template>

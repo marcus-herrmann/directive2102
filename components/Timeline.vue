@@ -6,7 +6,7 @@
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
-              <span class="flag">December 22, 2016</span>
+              <time datetime="2016-12-22" class="flag">December 22, 2016</time>
             </div>
             <div class="desc">
               Directive 2016/2102 comes into effect
@@ -16,18 +16,17 @@
         <li>
           <div class="direction-l">
             <div class="flag-wrapper">
-              <span class="flag">June 12, 2017</span>
+              <time datetime="2017-06-12" class="flag">June 12, 2017</time>
             </div>
             <div class="desc">
-              Member states of the EU are conferred power to adopt national law so as to make reference
-              to a more recent version of that technical requirements.
+              Member states of the <abbr title="European Union">EU</abbr> are conferred power to adopt national law so as to make reference to a more recent version of that technical requirements.
             </div>
           </div>
         </li>
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
-              <span class="flag">September 23, 2018</span>
+              <time datetime="2018-09-23" class="flag">September 23, 2018</time>
             </div>
             <div class="desc">
               All member states must have implementation laws based on directive 2102 in place. National infrastructure
@@ -39,7 +38,7 @@
         <li>
           <div class="direction-l">
             <div class="flag-wrapper">
-              <span class="flag">December 23, 2018</span>
+              <time datetime="2018-12-23" class="flag">December 23, 2018</time>
             </div>
             <div class="desc">
               Model accessibility statement will be published, technical requirements will be finalized. Standardized
@@ -51,7 +50,7 @@
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
-              <span class="flag">September 23, 2019</span>
+              <time datetime="2019-09-23" class="flag">September 23, 2019</time>
             </div>
             <div class="desc">
               Non public intranets and extranets must be accessible
@@ -61,7 +60,7 @@
         <li>
           <div class="direction-l">
             <div class="flag-wrapper">
-              <span class="flag">September 23, 2020</span>
+              <time datetime="2020-09-23" class="flag">September 23, 2020</time>
             </div>
             <div class="desc">
               Recorded time based media must be accessible. "Legacy" websites that have been published before September
@@ -72,7 +71,7 @@
         <li>
           <div class="direction-r">
             <div class="flag-wrapper">
-              <span class="flag">June 23, 2021</span>
+              <time datetime="2021-06-23" class="flag">June 23, 2021</time>
             </div>
             <div class="desc">Mobile apps of public sector bodies must be accessible</div>
           </div>
