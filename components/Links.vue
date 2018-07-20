@@ -15,6 +15,8 @@
           You can find this draft here</a>.</p>
 
       <p><a href="https://www.hellbusch.de/eu-richtlinie-2102/" hreflang="de">A detailed summary of the directive in German language can be found in this series of articles by Jan Hellbusch.</a></p>
+
+      <p><a href="https://www.gov.uk/guidance/accessibility-requirements-for-public-sector-websites-and-apps">Checklist for new accessibility regulations for public sector websites and apps from gov.uk/British Government Digital Service</a> </p>
     </div>
   </section>
 </template>
