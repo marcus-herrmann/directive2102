@@ -9,7 +9,14 @@ module.exports = {
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
       {name: 'msapplication-TileColor', content: '#1e3a72'},
       {name: 'theme-color', content: '#ffffff'},
-      {hid: 'description', name: 'description', content: 'Short summary site about standardization of web accessibility laws across the European Union'}
+      {hid: 'description', name: 'description', content: 'Short summary site about standardization of web accessibility laws across the European Union'},
+      {property: 'og:description', name: 'twitter:description', content: 'Short summary site about standardization of web accessibility laws across the European Union'},
+      {name: 'og:url', content: 'https://directive2102.eu'},
+      {name: 'twitter:card', content: 'summary'},
+      {name: 'twitter:creator', content: '@_marcusherrmann'},
+      {name: 'twitter:image', content: 'https://directive2102.eu/logo.png'},
+      {name: 'twitter:title', content: 'What is Directive (EU) 2016/2102?'},
+      {property: 'twitter:url', content: 'https://directive2102.eu'}
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
