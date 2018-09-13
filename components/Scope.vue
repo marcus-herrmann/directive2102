@@ -8,7 +8,7 @@
           accessibility of these channels and forms of media will be published by the European Commission.
         </li>
         <li>Until then and as mentioned above, regarding web accessibility Directive 2102 orientates itself at <strong>Web
-          Content Accessibility Guidelines (WCAG) 2.0, Level AA</strong> by taking reference to <a
+          Content Accessibility Guidelines (WCAG) 2.1, Level AA</strong> by taking reference to <a
           href="http://www.etsi.org/deliver/etsi_en/301500_301599/301549/01.01.02_60/en_301549v010102p.pdf">EN 301 549,
           PDF, Chapter 9:
           Web</a></li>
