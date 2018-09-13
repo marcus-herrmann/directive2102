@@ -19,7 +19,7 @@
           Meaning: a directive does not automatically becomes law in all <abbr title="European Union">EU</abbr> member states, but binds the states to adopt
           its content into national law. This has to happen for Directive 2102 until <strong>23 September 2018.</strong>
           The following will also apply: Any <strong><em>new</em></strong> website of the public sector released after
-          this date has to comply with <a href="https://www.w3.org/TR/WCAG20/">Web Content Accessibility Guidelines (WCAG) 2.0</a>, Level AA by <strong>23 December 2018</strong>. See section <a href="#timeline" v-smooth-scroll>Timeline</a> for further deadlines.
+          this date has to comply with <a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a>, Level AA by <strong>23 December 2018</strong>. See section <a href="#timeline" v-smooth-scroll>Timeline</a> for further deadlines.
         </li>
       </ul>
     </div>
