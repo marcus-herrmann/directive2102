@@ -9,7 +9,7 @@ module.exports = {
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
       {name: 'msapplication-TileColor', content: '#1e3a72'},
       {name: 'theme-color', content: '#ffffff'},
-      {hid: 'description', name: 'description', content: 'Info about Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies.'},
+      {hid: 'description', name: 'description', content: 'Info about Directive (EU) 2016/2102 of the European Parliament on the accessibility of the websites and mobile applications of public sector bodies.'},
       {name: 'title', content: 'What is Directive (EU) 2016/2102?'},
       {property: 'og:url', content: 'https://directive2102.eu'},
       {property: 'twitter:card', content: 'summary'},
@@ -19,7 +19,7 @@ module.exports = {
       {property: 'twitter:url', content: 'https://directive2102.eu'},
       {property: 'og:image', content: 'https://directive2102.eu/logo.png'},
       {property: 'og:title', content: 'What is Directive (EU) 2016/2102?'},
-      {property: 'og:description', name: 'twitter:description', content: 'Info about Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies.'},
+      {property: 'og:description', name: 'twitter:description', content: 'Info about Directive (EU) 2016/2102 of the European Parliament on the accessibility of the websites and mobile applications of public sector bodies.'},
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
